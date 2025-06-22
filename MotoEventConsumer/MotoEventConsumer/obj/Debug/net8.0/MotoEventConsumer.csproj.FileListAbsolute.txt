@@ -1,0 +1,17 @@
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\bin\Debug\net8.0\MotoEventConsumer.exe
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\bin\Debug\net8.0\MotoEventConsumer.deps.json
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\bin\Debug\net8.0\MotoEventConsumer.runtimeconfig.json
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\bin\Debug\net8.0\MotoEventConsumer.dll
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\bin\Debug\net8.0\MotoEventConsumer.pdb
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.AssemblyInfo.cs
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEven.BAD7DDF1.Up2Date
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.dll
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\refint\MotoEventConsumer.dll
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.pdb
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\MotoEventConsumer.genruntimeconfig.cache
+C:\Users\laura\source\repos\MotoEventConsumer\MotoEventConsumer\obj\Debug\net8.0\ref\MotoEventConsumer.dll

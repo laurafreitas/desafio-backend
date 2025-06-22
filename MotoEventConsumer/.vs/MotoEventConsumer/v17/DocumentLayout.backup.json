@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\source\\repos\\MotoEventConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6737A7D-55D6-47C0-80EB-4B5C7EA7DC3F}|MotoEventConsumer\\MotoEventConsumer.csproj|c:\\users\\laura\\source\\repos\\motoeventconsumer\\motoeventconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6737A7D-55D6-47C0-80EB-4B5C7EA7DC3F}|MotoEventConsumer\\MotoEventConsumer.csproj|solutionrelative:motoeventconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\MotoEventConsumer\\MotoEventConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "MotoEventConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\repos\\MotoEventConsumer\\MotoEventConsumer\\Program.cs",
+              "RelativeToolTip": "MotoEventConsumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:44:53.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
