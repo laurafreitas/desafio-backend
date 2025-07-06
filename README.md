@@ -2,7 +2,7 @@
 
 Este repositório contém a implementação de uma API RESTful desenvolvida como parte de um desafio técnico para uma vaga na área de backend. O sistema simula a gestão de motos e entregadores de uma empresa de entregas.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - .NET
 - C#
